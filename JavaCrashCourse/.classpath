@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/byte-buddy-1.17.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/byte-buddy-1.17.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/error_prone_annotations-2.36.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/error_prone_annotations-2.36.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/guava-33.4.5-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/guava-33.4.5-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-api-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-api-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-api-incubator-1.46.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-api-incubator-1.46.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-context-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-context-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-exporter-logging-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-exporter-logging-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-common-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-common-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-extension-autoconfigure-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-logs-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-logs-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-metrics-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-metrics-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-trace-1.48.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/opentelemetry-sdk-trace-1.48.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-api-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-api-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-chrome-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-chrome-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-chromium-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-chromium-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-devtools-v132-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-devtools-v132-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-devtools-v133-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-devtools-v133-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-devtools-v134-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-devtools-v134-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-edge-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-edge-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-firefox-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-firefox-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-http-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-http-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-ie-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-ie-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-java-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-java-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-json-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-json-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-manager-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-manager-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-os-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-os-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-remote-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-remote-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-safari-driver-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-safari-driver-4.30.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-server-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-support-4.30.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-24/Referenced Libraries/selenium-support-4.30.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
